@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/bikram6275/lol/test.yaml",
+    "url": "https://raw.githubusercontent.com/bikram6275/lol/main/test.json",
     "urls": [
         {
-            "url": "https://github.com/bikram6275/lol/test.yaml",
+            "url": "https://raw.githubusercontent.com/bikram6275/lol/main/test.json",
             "name": "Foo"
         }
     ]
